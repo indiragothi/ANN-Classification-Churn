@@ -1,0 +1,15 @@
+# Neural Network Architecture
+
+1. Sequential Network
+
+2. Dense Layer → 64 neurons
+
+3. Activation Functions → Sigmoid, Tanh, ReLU, Leaky ReLU
+
+4. Optimizer → Backpropagation → Updating the weights
+
+5. Loss Function
+
+6. Metrics → [Accuracy], [MRE, MAE]
+
+7. Training → Logs → Folders → TensorBoard → Visualization
